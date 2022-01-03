@@ -328,7 +328,7 @@ footer{
 }
     .ham{
         display: block;
-        position: absolute;
+        position: fixed;
         right: 20px;
         top: 27px;
     }
@@ -345,7 +345,7 @@ footer{
         flex-direction: column;
         align-items: normal;
         justify-content: normal;
-        position: absolute;
+        position: fixed;
         left: 0;
         right: 0;
      }
